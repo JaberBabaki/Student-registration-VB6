@@ -1,4 +1,7 @@
 # Student-registration-VB6
+> SPRING 2012 
+
+# Description
 In this project, information about students and their grades is stored in the file. The system has the ability to delete or modify student information or grades. Student scores are displayed in graphical form.
 
 
